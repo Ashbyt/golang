@@ -1,2 +1,2 @@
 # golang
-golang code repository
+Ashley Bythell golang code repository
